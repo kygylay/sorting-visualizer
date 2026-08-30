@@ -1,2 +1,1 @@
-# sorting-visualizer
-Interactive sorting algorithm visualizer built with vanilla JavaScript
+# Sorting Visualizer An interactive browser-based visualization of sorting algorithms built with pure vanilla JavaScript — no libraries or frameworks. ## Features - Bubble Sort, Selection Sort, Insertion Sort - Real-time canvas animation - Live comparisons and swaps counters - Adjustable array size and animation speed - Pause / Resume controls ## How to run Download `sorting-visualizer.html` and open it in any browser. No installation needed. ## Tech stack HTML · CSS · JavaScript (Canvas API)
